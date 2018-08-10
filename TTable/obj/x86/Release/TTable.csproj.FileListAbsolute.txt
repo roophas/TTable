@@ -1,0 +1,15 @@
+D:\Shiksha\TTable\TTable\TTable\bin\Release\TTable.exe.config
+D:\Shiksha\TTable\TTable\TTable\bin\Release\TTable.exe
+D:\Shiksha\TTable\TTable\TTable\bin\Release\TTable.pdb
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.frmMainForm.resources
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.Login.resources
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.Properties.Resources.resources
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.Schedule.resources
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.Subjects.resources
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.Teacher_Schedule.resources
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.Teacher.resources
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.csproj.GenerateResource.Cache
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.exe
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.pdb
+D:\Shiksha\TTable\TTable\TTable\bin\Release\Calendar.DayView.dll
+D:\Shiksha\TTable\TTable\TTable\obj\x86\Release\TTable.ViewTeacherSchedule.resources
